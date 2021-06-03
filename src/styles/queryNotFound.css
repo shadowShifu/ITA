@@ -1,0 +1,179 @@
+@media screen and (max-width: 1024px) {
+    .perd{
+        font-size: 100px;
+        margin-top: 20%;
+    }
+    .astro{
+        width: 500px;
+        height: 500px;
+        margin: 10px;
+        margin-left: 30%;
+    }
+    .moon{
+        margin-bottom: -150%;
+        width: 1020px;
+        height: 1020px;
+        cursor: pointer;
+        animation-name: rotar;
+        animation-duration: 200s;
+        animation-iteration-count: infinite;
+    }
+  }
+
+@media screen and (max-width: 991px) {
+    .perd{
+        font-size: 80px;
+        margin-top: 20%;
+    }
+    .astro{
+        width: 170px;
+        height: 170px;
+        margin: 10px;
+        margin-left: 30%;
+    }
+    .moon{
+        margin-bottom: -195%;
+        width: 420px;
+        height: 420px;
+        cursor: pointer;
+        animation-name: rotar;
+        animation-duration: 200s;
+        animation-iteration-count: infinite;
+    }
+  }
+
+@media screen and (max-width: 768px) {
+    .perd{
+        font-size: 70px;
+        margin-top: 25%;
+        margin-left: 15%;
+    }
+    .astro{
+        width: 300px;
+        height: 300px;
+        margin: 50px;
+        margin-left: 35%;
+    }
+    .moon{
+        margin-bottom: -120%;
+        width: 775px;
+        height: 775px;
+        cursor: pointer;
+        animation-name: rotar;
+        animation-duration: 200s;
+        animation-iteration-count: infinite;
+    }
+  }
+
+@media screen and (max-width: 450px) {
+    .perd{
+        font-size: 60px;
+        margin-top: 40%;
+    }
+    .astro{
+        width: 170px;
+        height: 170px;
+        margin: 10px;
+        margin-left: 30%;
+    }
+    .moon{
+        margin-bottom: -195%;
+        width: 420px;
+        height: 420px;
+        cursor: pointer;
+        animation-name: rotar;
+        animation-duration: 200s;
+        animation-iteration-count: infinite;
+    }
+  }
+
+@media screen and (max-width: 400px) {
+    .perd{
+        font-size: 50px;
+        margin-top: 35%;
+    }
+    .astro{
+        width: 150px;
+        height: 150px;
+        margin: 10px;
+        margin-left: 30%;
+    }
+    .moon{
+        margin-bottom: -200%;
+        width: 375px;
+        height: 375px;
+        cursor: pointer;
+        animation-name: rotar;
+        animation-duration: 200s;
+        animation-iteration-count: infinite;
+    }
+  }
+
+@media screen and (max-width: 360px) {
+    .perd{
+        font-size: 40px;
+        margin-top: 25%;
+        margin-right: 20%;
+    }
+    .astro{
+        width: 150px;
+        height: 150px;
+        margin: 10px;
+        margin-left: 20%;
+    }
+    .moon{
+        margin-bottom: -150%;
+        width: 300px;
+        height: 300px;
+        cursor: pointer;
+        animation-name: rotar;
+        animation-duration: 200s;
+        animation-iteration-count: infinite;
+    }
+  }
+
+@media screen and (max-width: 280px) {
+    .perd{
+        margin-left: -20%;
+        font-size: 30px;
+        margin-top: 50%;
+    }
+    .astro{
+        width: 115px;
+        height: 115px;
+        margin: 10px;
+        margin-left: 30%;
+    }
+    .moon{
+        margin-bottom: -150%;
+        width: 230px;
+        height: 230px;
+        cursor: pointer;
+        animation-name: rotar;
+        animation-duration: 200s;
+        animation-iteration-count: infinite;
+    }
+  }
+
+  @media screen and (max-width: 200px) {
+    .perd{
+        margin-left: 15%;
+        font-size: 30px;
+        margin-top: 50%;
+    }
+    .astro{
+        width: 105px;
+        height: 105px;
+        margin: 10px;
+        margin-left: 30%;
+    }
+    .moon{
+        margin-bottom: -190%;
+        width: 210px;
+        height: 210px;
+        cursor: pointer;
+        animation-name: rotar;
+        animation-duration: 200s;
+        animation-iteration-count: infinite;
+    }
+  }

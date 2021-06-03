@@ -1,0 +1,84 @@
+@keyframes rotar {
+    from{transform: rotateZ(0deg);}
+  
+    to{transform: rotateZ(360deg);}
+  }
+
+  @keyframes bajar {
+    from{transform: translateY(0px);}
+
+    to{transform: translateY(100px);}
+  }
+
+.perd{
+    color:aqua;
+    margin-top: 10%;
+    font-size: 5em;
+    text-align: center;
+}
+.astro{
+    width: 250px;
+    height: 250px;
+    float: left;
+    margin-left: 40%;
+}
+
+.moon{
+    margin-bottom: -22%;
+    width: 1360px;
+    height: 1360px;
+    cursor: pointer;
+    animation-name: rotar;
+    animation-duration: 200s;
+    animation-iteration-count: infinite;
+}
+
+@media screen and (max-width: 768px) {
+    .moon{
+        margin-bottom: -300%;
+        width: 900px;
+        height: 900px;
+    }
+}
+
+@media screen and (max-width: 450px) {
+    .moon{
+        margin-bottom: -400%;
+        width: 600px;
+        height: 600px;
+    }
+}
+
+@media screen and (max-width: 400px) {
+    .moon{
+        margin-bottom: -500%;
+        width: 350px;
+        height: 350px;
+    }
+}
+
+@media screen and (max-width: 360px) {
+    .moon{
+        margin-bottom: -325%;
+        width: 320px;
+        height: 320px;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .moon{
+        margin-bottom: -300%;
+        width: 270px;
+        height: 270px;
+    }
+}
+
+
+@media screen and (max-width: 280px) {
+    .moon{
+        margin-bottom: -350%;
+        width: 200px;
+        height: 200px;
+    }   
+}
+

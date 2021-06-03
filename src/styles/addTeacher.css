@@ -1,0 +1,22 @@
+.content-form{
+    margin: 0 auto;
+    width: 50%;
+}
+
+.form-select{
+    font-size: 14.5px;
+    background: #171b1e80;
+    color: #7b839b;
+    font-family:'canada';
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-color:  #4D5261;
+    border-width: 2px;
+  }
+  .opt{
+    background:#14161E;
+    font-size: 14.5px;
+    font-family:'canada';
+    color: white;
+  }

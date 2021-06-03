@@ -1,0 +1,23 @@
+body{
+  background: #14161E;
+  overflow: hidden;
+}
+
+#particles-js{
+  height: 100%;
+  width: 100%;
+  position: fixed;
+  z-index: -1;
+}
+
+.container{
+  margin-top: 50px;
+  height: 100%;
+  width: 100%;
+  position: relative;
+  z-index: 99;
+}
+
+.conte{
+  margin: 0 auto;
+}

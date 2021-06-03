@@ -1,0 +1,33 @@
+.content{
+    margin: 0 auto;
+    display: grid;
+    align-content: center;
+    justify-content: center;
+}
+
+.cont{
+    text-align: center;
+}
+
+.cont > h1{
+    font-size: 40px;
+    color:rgb(200, 200, 160);
+    cursor: pointer;
+}
+
+.logoAdmin{
+    height: 180px;
+    width: 180px;
+    color: rgb(88, 88, 88);
+}
+
+.logoAdmin2{
+    height: 600px;
+    width: 70%;
+    cursor: grab;
+}
+
+.logoAdmin2:hover{
+    height: 400px;
+    width: 100%;
+}

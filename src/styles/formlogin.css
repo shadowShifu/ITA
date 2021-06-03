@@ -1,0 +1,104 @@
+@font-face {
+    src: url(../fonts/ChaparralProLight.ttf);
+    font-family: 'chaparral';
+
+    src: url(../fonts/GibsonLight.OTF);
+    font-family: 'canada';
+}
+
+@keyframes rotar {
+  from{transform: rotateZ(0deg);}
+
+  to{transform: rotateZ(360deg);}
+}
+
+.form-div{
+  /*background-color: rgb(42, 44, 45);*/
+  width: 40%;
+  margin: 0 auto;
+  border-radius: 15px;
+}
+.form-log{
+  font-size: 15px;
+}
+.form-select{
+  font-size: 14.5px;
+  background: #171b1e80;
+  color: #7b839b;
+  font-family:'canada';
+  padding-left: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-color:  #4D5261;
+  border-width: 2px;
+}
+.opt{
+  background:#14161E;
+  font-size: 14.5px;
+  font-family:'canada';
+  color: white;
+}
+
+.imputC{
+  background: #171b1e80;
+  color: #7b839b;
+  font-family:'canada';
+  font-size: 14.5px;
+  padding: 10px;
+  border-color:  #4D5261;
+  border-width: 2px;
+}
+
+.imputC:focus{
+  border-color:#47F4CF;
+  background-color:rgba(71,244,207,0.18);
+  color:#7b839b;
+}
+
+.imputC::placeholder{
+  color: #7b839b;
+  font-family:'canada';
+  font-size: 14.5px;
+  padding: 10px;
+}
+
+.div-btn{
+  text-align: center;
+  margin-top: 15px;
+}
+
+.btnAc{
+  background: #4D5261;
+  color: #f2f2f2;
+  height: 40px;
+  padding: 5px;
+  width: 100%;
+  border: 0;
+  border-radius: 10px;
+  font-size: 14px;
+  font-family: 'canada';
+}
+.btnAc:hover{
+  background:#7b839b;
+  color:#fff;
+  border-color: black;
+}
+
+.divL{
+  text-align: center;
+}
+
+.divLogo:hover{
+  cursor: pointer;
+}
+
+.divLogo{
+  width: 50%;
+  animation-name: rotar;
+  animation-duration: 45s;
+  animation-iteration-count: infinite;
+}
+
+.error{
+  color: red;
+}

@@ -1,0 +1,30 @@
+@font-face {
+    src: url(../fonts/ChaparralProLight.ttf);
+    font-family: 'chaparral';
+
+    src: url(../fonts/GibsonLight.OTF);
+    font-family: 'canada';
+}
+
+.imputC{
+    background: #171b1e80;
+    color: #7b839b;
+    font-family:'canada';
+    font-size: 14.5px;
+    padding: 10px;
+    border-color:  #4D5261;
+    border-width: 2px;
+  }
+  
+  .imputC:focus{
+    border-color:#47F4CF;
+    background-color:rgba(71,244,207,0.18);
+    color:#7b839b;
+  }
+  
+  .imputC::placeholder{
+    color: #7b839b;
+    font-family:'canada';
+    font-size: 14.5px;
+    padding: 10px;
+  }
