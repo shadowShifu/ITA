@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/ITA/static/css/main.873328dd.chunk.css",
+    "main.css": "/ITA/static/css/main.dfd53883.chunk.css",
     "main.js": "/ITA/static/js/main.0835724b.chunk.js",
     "main.js.map": "/ITA/static/js/main.0835724b.chunk.js.map",
     "runtime-main.js": "/ITA/static/js/runtime-main.d450c3cf.js",
@@ -10,7 +10,7 @@
     "static/js/2.d1d644e9.chunk.js.map": "/ITA/static/js/2.d1d644e9.chunk.js.map",
     "index.html": "/ITA/index.html",
     "static/css/2.6a931dbf.chunk.css.map": "/ITA/static/css/2.6a931dbf.chunk.css.map",
-    "static/css/main.873328dd.chunk.css.map": "/ITA/static/css/main.873328dd.chunk.css.map",
+    "static/css/main.dfd53883.chunk.css.map": "/ITA/static/css/main.dfd53883.chunk.css.map",
     "static/js/2.d1d644e9.chunk.js.LICENSE.txt": "/ITA/static/js/2.d1d644e9.chunk.js.LICENSE.txt",
     "static/media/input.css": "/ITA/static/media/GibsonLight.316134b9.OTF",
     "static/media/astro.5b068ae9.png": "/ITA/static/media/astro.5b068ae9.png",
@@ -23,7 +23,7 @@
     "static/js/runtime-main.d450c3cf.js",
     "static/css/2.6a931dbf.chunk.css",
     "static/js/2.d1d644e9.chunk.js",
-    "static/css/main.873328dd.chunk.css",
+    "static/css/main.dfd53883.chunk.css",
     "static/js/main.0835724b.chunk.js"
   ]
 }
