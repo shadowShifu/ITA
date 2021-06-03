@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/ITA/static/css/main.23615ca5.chunk.css",
+    "main.js": "/ITA/static/js/main.36dd1b06.chunk.js",
+    "main.js.map": "/ITA/static/js/main.36dd1b06.chunk.js.map",
+    "runtime-main.js": "/ITA/static/js/runtime-main.d450c3cf.js",
+    "runtime-main.js.map": "/ITA/static/js/runtime-main.d450c3cf.js.map",
+    "static/css/2.6a931dbf.chunk.css": "/ITA/static/css/2.6a931dbf.chunk.css",
+    "static/js/2.d1d644e9.chunk.js": "/ITA/static/js/2.d1d644e9.chunk.js",
+    "static/js/2.d1d644e9.chunk.js.map": "/ITA/static/js/2.d1d644e9.chunk.js.map",
+    "index.html": "/ITA/index.html",
+    "static/css/2.6a931dbf.chunk.css.map": "/ITA/static/css/2.6a931dbf.chunk.css.map",
+    "static/css/main.23615ca5.chunk.css.map": "/ITA/static/css/main.23615ca5.chunk.css.map",
+    "static/js/2.d1d644e9.chunk.js.LICENSE.txt": "/ITA/static/js/2.d1d644e9.chunk.js.LICENSE.txt",
+    "static/media/input.css": "/ITA/static/media/GibsonLight.316134b9.OTF",
+    "static/media/astro.5b068ae9.png": "/ITA/static/media/astro.5b068ae9.png",
+    "static/media/logo.9aaf6623.png": "/ITA/static/media/logo.9aaf6623.png",
+    "static/media/logoAdmin.a0b1d9e0.svg": "/ITA/static/media/logoAdmin.a0b1d9e0.svg",
+    "static/media/moon.d55c67e9.png": "/ITA/static/media/moon.d55c67e9.png",
+    "static/media/settings.251ad766.svg": "/ITA/static/media/settings.251ad766.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d450c3cf.js",
+    "static/css/2.6a931dbf.chunk.css",
+    "static/js/2.d1d644e9.chunk.js",
+    "static/css/main.23615ca5.chunk.css",
+    "static/js/main.36dd1b06.chunk.js"
+  ]
+}
